@@ -1,3 +1,14 @@
+# File: Task_about_marks_of_the_students.py
+# Description: Calculating average marks of the students from the file
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Calculating average marks of the students from the file // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Task_about_marks_of_the_students (date of access: XX.XX.XXXX)
+
 # Implementing the task
 # Processing data about the student's marks
 # Reading the data from the file
